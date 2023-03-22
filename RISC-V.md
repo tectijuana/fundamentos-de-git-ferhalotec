@@ -1,4 +1,4 @@
-#RISC-V
+# RISC-V
 Debido a los múltiples simuladores de RISC-V ISA y extensiones abiertas, se realiza
 un estudio donde se analizan ventajas e inconvenientes de los núcleos más importantes (BOOM, Ariane, Rocket, RiskyOO,. . . ) haciendo especial énfasis en las versiones que
 modelen núcleos que soporten ejecución fuera de orden, y que se puedan sintetizar. Dadas
