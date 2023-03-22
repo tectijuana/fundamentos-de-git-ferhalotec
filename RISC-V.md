@@ -7,7 +7,6 @@ cabo las primeras pruebas y comparaciones. Se realizan simulaciones modificando 
 En este último paso se implementa un nuevo evento que detecta si el ROB se ha bloqueado y se hace uso de un contador para registrar el número de veces que esto ocurre, para
 llegar a las conclusiones finales del trabajo.
 Palabras clave: RISC-V, microarquitectura, contadores de prestaciones
-# 
 
 ////////****************////////////////
 
