@@ -11,3 +11,8 @@ Palabras clave: RISC-V, microarquitectura, contadores de prestaciones
 
 
 ![image](https://user-images.githubusercontent.com/124218032/226794373-2ec5ac3c-630b-4b37-a0ed-01974e88073c.png)
+
+
+
+Referencia de informacion detallada:
+https://docs.google.com/document/d/1Odg6IB9qmN5fCRMMd7B7Ged5QzIqdepnaGI-Nfx_yX8/edit?usp=sharing
