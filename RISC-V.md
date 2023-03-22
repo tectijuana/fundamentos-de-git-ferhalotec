@@ -8,6 +8,6 @@ En este último paso se implementa un nuevo evento que detecta si el ROB se ha b
 llegar a las conclusiones finales del trabajo.
 Palabras clave: RISC-V, microarquitectura, contadores de prestaciones
 
-////////****************////////////////
+
 
 ![image](https://user-images.githubusercontent.com/124218032/226794373-2ec5ac3c-630b-4b37-a0ed-01974e88073c.png)
