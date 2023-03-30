@@ -1,0 +1,114 @@
+    1  passwd
+    2  logout
+    3  paswd
+    4  passwd
+    5  logout
+    6  gdb
+    7  sudo apt-get update
+    8  whereis gcc
+    9  which gcc
+   10  gcc --version
+   11  #include <iostream>
+   12  using namespace std;
+   13  int main()
+   14  {     for (int i = 9; i <= 43; i += 1)
+   15  g++ Programa-1.C -o Programa-1
+   16  g++ Programa-1 -o Programa-1
+   17  g++ Programa-1 - Sample C++ program
+   18  make Programa 1
+   19  g++ Programa-1 - Sample C++ program
+   20  g++ Programa1 -o
+   21  dir
+   22  tectijuana
+   23  int main(void)
+   24  #include "iostream"
+   25  //demo2.C - Sample C++ program
+   26  g++ demo2.C -o demo2
+   27  vi
+   28  scp
+   29  -S Programa1
+   30  g++ Programa1.cpp -o Programa1
+   31  /workspaces/fundamentos-de-git-ferhalotec/25 programas de CPP/Programa 1
+   32  dir /workspaces/fundamentos-de-git-ferhalotec/25 programas de CPP/Programa 1
+   33  dir repositories
+   34  dir ferhalotec
+   35  ls
+   36  cd fundamentos-de-git-ferhalotec/
+   37  ls
+   38  cd 25\ programas\ de\ CPP/
+   39  ls
+   40  g++ Programa5.cpp
+   41  chmod +x ./a.out
+   42  ./a.out
+   43  pwd
+   44  nano
+   45  .global _start
+   46  .global
+   47  man pwd
+   48  pwd
+   49  nano
+   50  nano 2.3 "Hola Mundo" primer programa en ARM32
+   51  pwd
+   52  nano HolaMundo
+   53  nano holamundo.s
+   54  as -o holamundo.s
+   55  as -o holamundo.o holamundo.s
+   56  Id -o holamundo holamundo.o
+   57  ./hola
+   58  ./holamundo
+   59  nano hola.s
+   60  as -o hola.o hola.s
+   61  ld -o hola hola.o
+   62  $  ./hola
+   63  $ ./hola
+   64  $  echo $?
+   65  man
+   66  pwd
+   67  man pwd
+   68  nano hola.s
+   69  as -o hola.o hola.s
+   70  Id -0 hola hola.o
+   71  id -0 hola hola.o
+   72  id -o hola hola.o
+   73  Id -o hola hola.o
+   74  as -o hola.o hola.s
+   75  ld -o hola hola.o
+   76  ./hola
+   77  echo $?
+   78  wget
+   79  wget https://raw.githubusercontent.com/tectijuana/interfaz/master/arm32/codigo/greet.s
+   80  as -o greet.o greet.s
+   81  ld -o greet greet.o
+   82  ./greet
+   83  history
+   84  exit
+   85  bash -c "$(curl -fsSL https://gef.blah.cat/sh)"
+   86  $ gdb -q /path/to/my/bin
+   87  gdb -q /path/to/my/bin
+   88  gef
+   89  bash -c "$(curl -fsSL https://gef.blah.cat/sh)"
+   90  $ gdb -q /path/to/my/bin
+   91  gef➤  gef help
+   92  gdb
+   93  ls
+   94  gdb -q holas
+   95  ./hola
+   96  q
+   97  gdb -q hola
+   98  history
+   99  exit
+  100  nano
+  101  cat > primero.s
+  102  nano primero.s
+  103  cat primero.s
+  104  as -o primero.o primero.s
+  105  gcc -o primero primero.o
+  106  ./primero | echo $?
+  107  gdb -q
+  108  gdb -q primero
+  109  nano primero.s
+  110  as -o primero.o primero.s
+  111  gcc -o primero primero.o
+  112  ./primero | echo $?
+  113  cat primero.s
+  114  history
